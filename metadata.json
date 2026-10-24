@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityHub SA",
+  "description": "South Africa's verified portal for government vacancies, learnerships, internships, and bursaries with automated feed updates, duplicate checks, and scam detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
